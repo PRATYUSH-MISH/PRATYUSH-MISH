@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRATYUSH MISHRA</h1>
-<h3 align="center">A passionate Full-Stack developer I'm a learner who's always willing to learn and work across technologies and domains 💡 love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻</h3>
+<h3 align="center">A passionate Full-Stack developer I'm a learner who's always willing to learn and work across technologies and domains love to explore new technologies and leverage them to solve real-life problems ✨.<br> Apart from that I also love to guide and mentor newbies 👨🏻‍💻</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush-mish&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush-mish" /> </p>
 
