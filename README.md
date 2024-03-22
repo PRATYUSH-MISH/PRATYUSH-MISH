@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pratyush-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratyush-mishra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pratyush-mishra-712339225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratyush-mishra" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/thepratyushmishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/thepratyushmishra/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/thepratyushmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thepratyushmishra" height="30" width="40" /></a>
 </p>
