@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=pratyush-mish" alt="pratyush-mish" /></a> </p>
 
-- 🔭 **I’m currently working with Reactjs, Nodejs, Mongodb, Javascript, etc.**
+- 🔭 **I’m currently working on MERN.**
 
 - 🌱 I’m currently learning **React JS, React Native, Docker,**
 
