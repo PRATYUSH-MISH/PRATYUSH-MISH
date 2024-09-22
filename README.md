@@ -12,7 +12,7 @@
 
 - 🔭 **I’m currently working on MERN.**
 
-- 🌱 I’m currently learning **React JS, React Native, Docker,**
+- 🌱 I’m currently learning **ReactJS, NodeJS,**
 
 - 👨‍💻 All of my projects are available at GitHub [https://github.com/PRATYUSH-MISH](https://github.com/PRATYUSH-MISH)
 
