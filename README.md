@@ -32,6 +32,11 @@ computer the engineer found and removed the moth coining the term "debugging".**
     <a href="https://auth.geeksforgeeks.org/user/thepratyushmishra" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
             alt="thepratyushmishra" height="30" width="40" /></a>
+    <a href="https://www.snapchat.com/add/pratyush-20" target="blank">
+        <img align="center"
+            src="https://upload.wikimedia.org/wikipedia/en/a/ad/Snapchat_logo.svg"
+            alt="pratyush-20" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
