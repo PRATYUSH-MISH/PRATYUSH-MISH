@@ -35,7 +35,7 @@ computer the engineer found and removed the moth coining the term "debugging".**
    <a href="https://www.snapchat.com/add/pratyush-20" target="blank">
         <img align="center"
             src="https://logohistory.net/wp-content/uploads/2023/05/Snapchat-Logo.png"
-            alt="pratyush-20" height="30" width="40" />
+            alt="pratyush-20" height="40" width="60" />
     </a>
 </p>
 
