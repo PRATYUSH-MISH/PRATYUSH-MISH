@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm PRATYUSH MISHRA</h1>
-<h3 align="center">A passionate Full-Stack developer I'm a learner who's always willing to learn and work across
-    technologies and domains 💡 love to explore new technologies and leverage them to solve real-life problems ✨.
+<h1 align="center">I'm PRATYUSH MISHRA</h1>
+<h3 align="center">A passionate Fdeveloper I'm a learner who's always willing to learn and work across
+    technologies and domains 💡 love to explore new technologies and use them to solve real-life problems ✨.
     Apart from that I also love to guide and mentor newbies 👨🏻‍💻</h3>
 
 <p align="left"> <img
